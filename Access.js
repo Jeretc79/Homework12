@@ -1,5 +1,5 @@
-var connection = require("./connection");
-var queryCollection = require("./queryCollection");
+var connection = require("./Connect");
+var queryCollection = require("./query");
 var inquirer = require("inquirer");
 
 
